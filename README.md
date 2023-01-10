@@ -1,4 +1,15 @@
-# React v18.2, MUI v5.10.x, React-App-Rewired Bundle Size Minimizer
+# React v18.2, MUI v5.x, react-app-rewired Bundle Size Optimizer
+
+<div align="center" style="display: flex;"> 
+  <img alt="Stars" src="https://img.shields.io/github/stars/oscaryang-k/react18-mui-bundle-size-optimized-boilerplate?style=for-the-badge">
+  <img alt="Forks" src="https://img.shields.io/github/forks/oscaryang-k/react18-mui-bundle-size-optimized-boilerplate?style=for-the-badge">
+  <img alt="Issues" src="https://img.shields.io/github/issues/oscaryang-k/react18-mui-bundle-size-optimized-boilerplate?style=for-the-badge">
+  <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/oscaryang-k/react18-mui-bundle-size-optimized-boilerplate?style=for-the-badge">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/oscaryang-k/react18-mui-bundle-size-optimized-boilerplate?style=for-the-badge">
+</div>
+
+## About 
+React v18, Material UI Boilerplate project what have optimized bundle size by using React-App-Rewired
 
 ## Available Scripts
 
@@ -17,19 +28,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
